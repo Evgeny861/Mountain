@@ -1,0 +1,513 @@
+header {
+    background: url(../img/Rectangle\ 1.jpg) no-repeat;
+    background-size: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-position: top center;
+    color:#fff;
+}
+.header-title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    color: #FCFCFC;
+}
+.row-mountain {
+    align-items: baseline;
+}
+.header-row {
+    margin-top: 25%;
+    
+    margin-bottom: 13%;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+ li>a {
+    margin: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #FCFCFC;
+} 
+.row-icons {
+    align-items: baseline;
+}
+.search-icon {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 4px 0px 0px 2px;
+    text-align: center;
+    width: 34px;
+    height: 34px;
+    background-color: rgba(252, 252, 252, 0.4);
+}
+.user-icon {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 3px 0px 0px 2px;
+    text-align: center;
+    width: 34px;
+    height: 34px;
+    background-color: rgba(252, 252, 252, 0.4);
+}
+.name-mountain {
+    font-weight: 600;
+    font-size: 98px;
+    line-height: 145px;
+    color: #FCFCFC;
+    font-family: Oswald;
+    margin-bottom: 50px;
+}
+.mountain {
+    text-align: center;
+}
+.under-mountain {
+    text-align: center;    
+}
+.about-world {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.world-title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 115%;
+    /* or 60px */
+
+    display: flex;
+    align-items: center;
+}
+.more {
+    background-color: transparent;
+    color:#fff;
+    margin-bottom: 30px;
+}
+.map {
+        width: 100%;
+}
+.world-text {
+    font-family: Roboto;
+    font-size: 18px;
+    line-height: 150%;
+    margin-top: 50px;
+}
+.tours {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600; 
+    font-size: 52px;
+    line-height: 115%;
+    margin-top: 140px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+.beluha {
+    background-image:
+    url(../img/Rectangle\ 65.png),
+    url(../img/beluha.jpg);
+    background-repeat: no-repeat;
+    
+}
+.country {
+    margin-top: 45px;
+}
+.town {
+    margin-top: 105px;
+}
+.bookmark {
+    border: 1px solid transparent;
+    border-radius: 50%;
+    background: rgba(252, 252, 252, 0.4);
+    padding-left: 11px;
+    padding-top: 2px;
+    padding-bottom: 8px;
+    width: 35px;
+    height: 35px;
+}
+.days {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 20px;
+
+}
+.elbrus {
+    background-image :
+    url(../img/Rectangle\ 65.png),
+    url(../img/elbrus3.jpg) ;
+    background-repeat: no-repeat;
+}
+.kilimanjaro {
+    background-image: 
+    url(../img/Rectangle\ 65.png),
+    url(../img/kili.jpg);
+    background-repeat: no-repeat;
+}
+.ellipse-2 {
+    position: relative;
+    right: 11px;
+}
+.ellipse-3 {
+    position: relative;
+    right: 11px;
+    bottom: 4px;
+}
+.level {
+    margin-top: 24px;
+    margin-bottom: 38px;
+}
+.vectors {
+    margin-top: 40px;
+    text-align: end;
+}
+.vector {
+    border: 1px solid transparent;
+    border-radius: 50%;
+    background: #E6E8EA;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    padding-right: 9px;
+    padding-top: 2px;
+}
+.vector-2 {
+    border: 1px solid transparent;
+    border-radius: 50%;
+    background: #E6E8EA;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    padding-right: 9px;
+    padding-top: 2px;
+    transform: rotate(-180deg);
+    margin-left: 25px;
+}
+.statistics {
+    background: url(../img/mountain.jpg);
+    text-align: center;
+    padding-top: 65px;
+    padding-bottom: 135px;
+    color: #fff;
+}
+.rus {
+    font-family: Oswald;
+    font-size: 52px;
+}
+table {
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+th {
+    border-bottom: 1px solid #45545e;
+    width: 150px; color:
+    #A7AEB4;
+    font-size: 18px;
+    padding-bottom: 10px;
+    
+}
+td {
+    font-size: 22px;
+    border-bottom: 1px solid #45545e;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.watch {
+    background-color: transparent;
+    color:#fff;
+    padding: 12px 25px;
+    text-align: center;
+}
+.the-blog {
+    padding-top: 23px;
+    padding-bottom: 140px;
+}
+.blog-title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 115%;
+    text-align: center;
+    margin-top: 23px;
+    margin-bottom: 80px;
+}
+.top-news {
+    width: 400px;
+    height: 128px;
+    background-color: #061B28;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+.news {
+    width: 400px;
+    height: 128px;
+    border-bottom: 1px solid #061B28;
+    color: #061B28;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+.date {
+    color: #7E8386;
+    margin-bottom: 20px;
+}
+.text-news {
+    font-size: 18px;
+}
+.reading-all {
+    width: 400px;
+    height: 50px;
+    background-color: #EC5118;
+    color: white;
+    margin-top: 30px;
+    border: none;
+}
+.img-blog {
+    max-width: 650px;
+    max-height: 287px;
+    margin-bottom: 40px;
+}
+.assist{
+    background-color: #061B28;
+    color: white;
+    width: 50%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    
+}
+.assist-title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 115%;
+}
+.text-assist {
+    margin-top: 40px;
+}
+.entry-input {
+    max-width: 525px;
+    margin: auto;
+}
+.input-form {
+    color: #7E8386;
+    background-color: #061b28;
+    border: none;
+    border-bottom: 1px solid #45545e;
+    width: 525px;
+    padding-top: 35px;
+    padding-bottom: 15px;
+    
+}
+.send {
+    width: 525px;
+    height: 50px;
+    background-color: #EC5118;
+    color: white;
+    margin-top: 30px;
+    border: none;
+}
+.after-button {
+    margin-top: 25px;
+}
+.img-right {
+    width: 50%;
+}
+.img-r {
+    width: 100%;
+}
+.contact {
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+footer {
+    background-color: #061B28;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer-name {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Oswald;
+    font-weight: 600;
+    font-size: 24px;
+}
+.confidential {
+    text-align: end;
+}
+
+
+@media (max-width:720px) {
+    header {
+        background-size: cover;
+    }
+    .header-row {
+        margin: auto;
+        text-align: center;
+    }
+    .header-title {
+        display: inline-block;
+        font-size: 15px;
+    }
+    ul {
+        margin: 0;
+    }
+    li>a {
+        margin: 5px;
+        font-size: 13px;
+    }
+    .row-icons {
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .phone-number {
+        font-size: 10px;
+    }
+    .search-icon {
+        padding: 0px 1px 0px 2px;
+        width: 25px;
+        height: 25px;
+    }
+    .search {
+        width: 10px;
+        padding: 0px 0px 1px 0px;
+    }
+    .user-icon {
+        padding: 0px 2px 0px 2px;
+        width: 25px;
+        height: 25px;
+    }
+    .user {
+        width: 10px;
+        padding: 0px 1px 2px 0px;
+    }
+    .name-mountain {
+        font-size: 35px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+    .more {
+        max-width: 65px; 
+        font-size: 10px;
+    }
+    .about-world {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .world-title {
+        font-size: 20px;
+    }
+    .world-text {
+        font-size: 12px;
+        margin-top: 20px;
+    }
+    .map {
+        width: 95%;
+        margin-top: 20px;
+    }
+    .popular {
+        font-size: 20px;
+    }
+    .tours {
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+    .beluha {
+        max-width: 90%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .town {
+        margin-top: 40px;
+    }
+    .price {
+        font-size: 11px;
+        margin-top: 15px;
+    }
+    .elbrus {
+        max-width: 90%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .kilimanjaro {
+        max-width: 90%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .vectors {
+        margin: auto;
+    }
+    th {
+        font-size: 15px;
+    }
+    td {
+        font-size: 12px;
+    }
+    .watch {
+        padding: 0px 5px;
+    }
+    .blog-title {
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+    .reading-all {
+        margin-bottom: 20px;
+    }
+    .img-blog {
+        max-width: 90%;
+        margin-left: 5%;
+    }
+    .world-text-2 {
+        font-size: 12px;
+        margin-top: 20px;
+        max-width: 90%;
+        margin: auto;
+    }
+    .assist-title {
+        font-size: 32px;
+    }
+    .entry-input {
+        max-width: 90%;
+        margin: auto;
+    }
+    .img-right {
+        display: none;
+
+    }
+    .input-form {
+        max-width: 90%;
+    }
+    .send {
+        max-width: 90%;
+    }
+    .yam {
+        display: none;
+    }
+    .contact {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .confidential {
+        text-align: center;
+    }
+
+}
