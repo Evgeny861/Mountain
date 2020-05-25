@@ -365,9 +365,12 @@ footer {
         display: inline-block;
         font-size: 15px;
     }
+    .header-ul {
+        justify-content: center;
+    }
     ul {
         margin: 0;
-        justify-content: center;
+        
     }
     li>a {
         margin: 5px;
