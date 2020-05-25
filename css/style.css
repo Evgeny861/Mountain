@@ -414,10 +414,10 @@ footer {
         margin-bottom: 20px;
     }
     .world-title {
-        font-size: 20px;
+        font-size: 24px;
     }
     .world-text {
-        font-size: 12px;
+        font-size: 14px;
         margin-top: 20px;
     }
     .map {
@@ -509,5 +509,16 @@ footer {
     .confidential {
         text-align: center;
     }
-
+    .statistics {
+        width: 100%;
+        margin: auto;
+    }
+    .the-blog {
+        width: 100%;
+        margin: auto;
+    }
+    .assist-row {
+        width: 100%;
+        margin: auto;
+    }
 }
