@@ -367,6 +367,7 @@ footer {
     }
     ul {
         margin: 0;
+        justify-content: center;
     }
     li>a {
         margin: 5px;
@@ -452,6 +453,17 @@ footer {
         max-width: 90%;
         margin: auto;
         margin-bottom: 20px;
+    }
+    .vector {
+            padding: 2px 10px 0px 0px;
+    }
+    .vector-2 {
+            padding: 2px 11px 0px 0px;
+    }
+    .traning {
+        font-weight: 700;
+        margin-bottom: 20px;
+        font-size: 18px;
     }
     .vectors {
         margin: auto;
