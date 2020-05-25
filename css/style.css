@@ -472,6 +472,9 @@ footer {
     .reading-all {
         margin-bottom: 20px;
     }
+    .the-blog {
+        padding-bottom:25px;
+    }
     .img-blog {
         max-width: 90%;
         margin-left: 5%;
@@ -503,7 +506,7 @@ footer {
         display: none;
     }
     .contact {
-        margin-top: 40px;
+        margin-top: 25px;
         margin-bottom: 40px;
     }
     .confidential {
@@ -520,5 +523,8 @@ footer {
     .assist-row {
         width: 100%;
         margin: auto;
+    }
+    footer {
+        text-align:center;
     }
 }
