@@ -354,6 +354,9 @@ footer {
 
 
 @media (max-width:720px) {
+    .w-100 {
+        height: 185px;
+    }
     .carousel-caption {
         position: absolute;
     right: 15%;
